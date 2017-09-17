@@ -1,0 +1,4 @@
+c:\users\richa\documents\visual studio 2017\Projects\athena_lambda_api\athena_lambda_api\bin\Debug\netcoreapp1.0\athena_lambda_api.deps.json
+c:\users\richa\documents\visual studio 2017\Projects\athena_lambda_api\athena_lambda_api\bin\Debug\netcoreapp1.0\athena_lambda_api.dll
+c:\users\richa\documents\visual studio 2017\Projects\athena_lambda_api\athena_lambda_api\obj\Debug\netcoreapp1.0\athena_lambda_api.csprojResolveAssemblyReference.cache
+c:\users\richa\documents\visual studio 2017\Projects\athena_lambda_api\athena_lambda_api\obj\Debug\netcoreapp1.0\athena_lambda_api.AssemblyInfo.cs
